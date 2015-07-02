@@ -1,0 +1,7 @@
+#Code for Git Clone and Push
+
+git clone https://github.com/username/repo
+cd repo
+git add -A
+git commit -m "message"
+git push
